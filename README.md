@@ -33,9 +33,9 @@ Orbital Altitude (m): 200000
 ```bash
 ---Orbital Metrics at 200km---
   
-  Orbital Velocity: 7784.00 m/s (28022.40 km/h)
+  Orbital Velocity: 7781.73 m/s (28014.21 km/h)
 
-  Orbital Period: 1.5 hours (88.9 minutes)
+  Orbital Period: 1.5 hours (88.5 minutes)
 ```
 ## Validation
 
@@ -43,8 +43,8 @@ This calculator has been validated against real orbital data:
 
 | Orbit | Altitude | My Output | Actual | Error |
 |-------|----------|-----------|--------|-------|
-| ISS | 200 km | 7,784 m/s | 7,661 m/s | 1.6% |
-| GEO | 35,786 km | 3,075 m/s | 3,075 m/s | 0.0% |
+| ISS | 200 km | 7,781 m/s | 7,661 m/s | 1.57% |
+| GEO | 35,786 km | 3,073 m/s | 3,075 m/s | 0.07% |
 
 ## Limitations
 
