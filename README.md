@@ -1,4 +1,4 @@
-# Basic-Orbital-Calculator
+Orbital-Calculator
 A Python tool used to calculate basic orbital metrics for equatorial circular orbits using the vis-viva equation.
 
 ## What it does
