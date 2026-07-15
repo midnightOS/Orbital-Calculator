@@ -41,7 +41,7 @@ Orbital Altitude (m): 200000
 
 This calculator has been validated against real orbital data:
 
-| Orbit | Altitude | My Output | Actual | Error |
+| Orbit | Altitude | Calculator Output | Actual | Error |
 |-------|----------|-----------|--------|-------|
 | ISS | 200 km | 7,781 m/s | 7,661 m/s | 1.57% |
 | GEO | 35,786 km | 3,073 m/s | 3,075 m/s | 0.07% |
