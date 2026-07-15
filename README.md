@@ -43,7 +43,7 @@ This calculator has been validated against real orbital data:
 
 | Orbit | Altitude | Calculator Output | Actual | Error |
 |-------|----------|-----------|--------|-------|
-| ISS | 200 km | 7,781 m/s | 7,661 m/s | 1.57% |
+| ISS | 400 km | 7,666.06 m/s | 7,661 m/s | 0.07% |
 | GEO | 35,786 km | 3,073 m/s | 3,075 m/s | 0.07% |
 
 ## Limitations
