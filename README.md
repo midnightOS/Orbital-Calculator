@@ -55,6 +55,5 @@ This calculator has been validated against real orbital data:
 
 ## Future Improvements
 
-- Add Hohmann transfer calculations (delta-v between two orbits)
 - Support inclined orbits
 - Validate against simulations
